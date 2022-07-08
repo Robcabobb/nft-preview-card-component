@@ -1,7 +1,7 @@
 # Frontend Mentor - NFT preview card component
 Coded by Robbie Evans with assistance from Youtube.
 
--Please check out deployment at https://robcabobb.github.io/nft-preview-card-component/
+-Please check out deployment at https://robbieevans1.github.io/nft-preview-card-component/
 
 
 
